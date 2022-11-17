@@ -21,3 +21,4 @@ sayi2 = 20
 print(sayi1 + sayi2)
 
 print(sonucMesaj)
+print(f"sonuç: {sonucMesaj}!")
