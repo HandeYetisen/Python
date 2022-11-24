@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T21:43:02.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FIpQxpq-57fygIuHAaWR" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T21:50:55.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UKO_D1cTR9y86B92xXSm" version="20.6.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1791,11 +1791,6 @@
         </mxCell>
         <mxCell id="hZz53cRVPdFCgoktbEtI-119" value="Bu tablo fazla mı oluyo kafam karıştı :))))&#xa;Fazla değilse&#xa;OrdersID eklemeye gerek var mı???!!!! " style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="15" y="1204" width="242" height="67" as="geometry">
-            <mxRectangle width="150" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hZz53cRVPdFCgoktbEtI-103" value="products ve categories arasında &#xa;many to many ilişkisi yok mu?" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontStyle=1;fontColor=#FF0000;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="532" y="155" width="249" height="61" as="geometry">
             <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
